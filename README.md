@@ -68,6 +68,11 @@ Motivation: Wants quick and reliable access to online forms and status tracking.
 ### User Pain Points:
 Users get confused by too many restaurant choices and repetitive items.
 The checkout process is long and filled with unnecessary steps.
+<img width="1918" height="1023" alt="swiggy" src="https://github.com/user-attachments/assets/ae7d0cfc-c571-4ccc-854c-bca7b571ce50" />
+
+<img width="1901" height="1023" alt="zomato" src="https://github.com/user-attachments/assets/f469f2bc-7a16-4ad2-a6db-3cc5fcbea19a" />
+
+
 ### Problem Statement 1:
 “Busy professionals need a way to order food quickly because too many restaurant and menu options
 make decision-making difficult, which results in order delays and app abandonment.”
