@@ -19,6 +19,10 @@ The UX design algorithm begins by identifying user groups, such as first-time ap
 ### User Pain Points:
 Citizens face difficulty in finding the correct government forms or applying for services online.
 The portal interface is outdated, text-heavy, and often confusing for first-time users.
+<img width="956" height="563" alt="GO1" src="https://github.com/user-attachments/assets/8700c335-4b96-47c7-bfd3-f905549a526e" />
+<img width="1011" height="470" alt="GO2" src="https://github.com/user-attachments/assets/5a6505f4-a1f3-42ef-abba-ed1752fdaf1c" />
+
+
 
 ### Problem Statement 1:
 “Citizens need a way to easily locate and apply for government services because the current portals
@@ -68,10 +72,9 @@ Motivation: Wants quick and reliable access to online forms and status tracking.
 ### User Pain Points:
 Users get confused by too many restaurant choices and repetitive items.
 The checkout process is long and filled with unnecessary steps.
-<img width="1918" height="1023" alt="swiggy" src="https://github.com/user-attachments/assets/ae7d0cfc-c571-4ccc-854c-bca7b571ce50" />
+<img width="1008" height="495" alt="FO1" src="https://github.com/user-attachments/assets/5c6f6c9e-e9d4-4291-b791-7aa92eb1a319" />
 
-<img width="1901" height="1023" alt="zomato" src="https://github.com/user-attachments/assets/f469f2bc-7a16-4ad2-a6db-3cc5fcbea19a" />
-
+<img width="1200" height="675" alt="FO2" src="https://github.com/user-attachments/assets/1e50a30a-558a-4528-8af8-e412ead8247d" />
 
 ### Problem Statement 1:
 “Busy professionals need a way to order food quickly because too many restaurant and menu options
