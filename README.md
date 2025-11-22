@@ -72,7 +72,7 @@ Motivation: Wants quick and reliable access to online forms and status tracking.
 ### User Pain Points:
 Users get confused by too many restaurant choices and repetitive items.
 The checkout process is long and filled with unnecessary steps.
-<img width="1008" height="495" alt="FO1" src="https://github.com/user-attachments/assets/5c6f6c9e-e9d4-4291-b791-7aa92eb1a319" />
+<img width="876" height="867" alt="Screenshot 2025-11-22 154327" src="https://github.com/user-attachments/assets/9163936b-7937-4faf-9963-88c08a4ecb28" />
 
 <img width="1200" height="675" alt="FO2" src="https://github.com/user-attachments/assets/1e50a30a-558a-4528-8af8-e412ead8247d" />
 
